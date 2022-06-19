@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a91d4bbf.css",
+    "main.js": "/static/js/main.f23bfa7a.js",
+    "static/media/img.png": "/static/media/img.88122ac420b0418847e7.png",
+    "static/media/achievement1.png": "/static/media/achievement1.4cc79b25ef80588c64ad.png",
+    "static/media/piggy.png": "/static/media/piggy.37633e8063e6411a5e38.png",
+    "static/media/bg.png": "/static/media/bg.2516285f2c851a94af8d.png",
+    "static/media/achievement2.png": "/static/media/achievement2.4a70b2ee5b23dd5fb824.png",
+    "static/media/Fontfabric - MullerRegular.otf": "/static/media/Fontfabric - MullerRegular.3f482a1e96309bf49aa7.otf",
+    "static/media/logo.png": "/static/media/logo.8eafbe560a07f9a5b9b1.png",
+    "static/media/img_1.png": "/static/media/img_1.54d61536078e416cb765.png",
+    "static/media/avatar.png": "/static/media/avatar.9ce5e4e4d5241aad6bac.png",
+    "static/media/achievement3.png": "/static/media/achievement3.332902bc47ea2a02c203.png",
+    "static/media/achievement4.png": "/static/media/achievement4.a1339cdb310c54531ca0.png",
+    "index.html": "/index.html",
+    "main.a91d4bbf.css.map": "/static/css/main.a91d4bbf.css.map",
+    "main.f23bfa7a.js.map": "/static/js/main.f23bfa7a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a91d4bbf.css",
+    "static/js/main.f23bfa7a.js"
+  ]
+}
