@@ -1,7 +1,7 @@
 This is the web version for a bank that is convinient for generation Z.
 Design from figma: https://www.figma.com/file/jxTPPswrw2wiFl8JynBZfS/project?node-id=139%3A1272.
 
-Stack: react-router-dom, styled-components.
+Stack: react-router-dom, styled-components, mui-components.
 
 Pages:
 1) Main Page:
