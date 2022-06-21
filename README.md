@@ -1,5 +1,8 @@
 This is the web version for a bank that is convinient for generation Z.
 Design from figma: https://www.figma.com/file/jxTPPswrw2wiFl8JynBZfS/project?node-id=139%3A1272.
+
+Stack: react-router-dom, styled-components.
+
 Pages:
 1) Main Page:
 <img width="1436" alt="image" src="https://user-images.githubusercontent.com/56618507/174793907-5fc42f7b-a20d-4f64-a072-88e5132ffece.png">
@@ -24,6 +27,7 @@ Pages:
 
 8) Personal Page:
 <img width="1440" alt="image" src="https://user-images.githubusercontent.com/56618507/174795062-3863cd19-2b19-4067-97b1-df34b28dd868.png">
+
 
 
 
